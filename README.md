@@ -1,4 +1,4 @@
-# CS Japan Roadmap - Week 1 Goals (Jan 28 - Feb 3, 2026)
+# Project_Rebuild - Week 1 Goals (Jan 28 - Feb 3, 2026)
 
 ## 🎯 Primary Objectives
 - Complete **Coursera "Python for Everybody"** Modules 1-2 (20% course progress)
@@ -32,28 +32,31 @@
  Tracking: Notion/Google Sheet with daily hours/notes
 
 ## 🛠 LeetCode Targets
-1. Two Sum
+<ol>
+<li>Two Sum</li>
 
-2. Fizz Buzz
+<li>Fizz Buzz</li>
 
-3. Check if Array Sorted
+<li>Check if Array Sorted</li>
 
-4. Prefix word count
+<li>Prefix word count</li>
 
-5. Move Zeroes
+<li>Move Zeroes</li>
 
-6. Remove Duplicates
+<li>Remove Duplicates</li>
 
-7. Contains Duplicate
+<li>Contains Duplicate</li>
 
-8. Plus One
+<li>Plus One</li>
 
-9. Best Time Buy/Sell Stock
+<li>Best Time Buy/Sell Stock</li>
 
-10. Pivot Index
+<li>Pivot Index</li>
+</ol>
 
 ## 📁 Expected Repo Structure
-cs-japan-roadmap/
+``` bash
+Project_Rebuild/
 ├── README.md
 ├── week1/
 │ ├── basics/
@@ -66,3 +69,4 @@ cs-japan-roadmap/
 │ ├── screenshots/
 │ └── README.md
 └── RESUME-UPDATE-v2.pdf
+```
