@@ -19,17 +19,9 @@
 | **Sun** | Feb 3 | Week review + portfolio README + LinkedIn share |
 
 ## ✅ Success Metrics (End of Week)
- 10/10 LeetCode easy problems solved ✅
+✅ Coursera Module 1 loops complete (5 exercises) 
+   → loops.py with multi-line, nested, break/continue
 
- Coursera: Module 1-2 complete (variables, loops, functions)
-
- GitHub: 7+ daily commits across 5+ files
-
- Project: Password generator with GUI, copy-to-clipboard, length slider
-
- Resume: Updated PDF with Week 1 project bullet
-
- Tracking: Notion/Google Sheet with daily hours/notes
 
 ## 🛠 LeetCode Targets
 <ol>
