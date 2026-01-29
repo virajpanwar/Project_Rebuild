@@ -21,6 +21,7 @@
 ## ✅ Success Metrics (End of Week)
 ✅ Coursera Module 1 loops complete (5 exercises) 
    → loops.py with multi-line, nested, break/continue
+
 ✅ 2/10 Leetcode problems solved
 
 
