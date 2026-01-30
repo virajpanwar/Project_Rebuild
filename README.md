@@ -4,7 +4,7 @@
 - Complete **Coursera "Python for Everybody"** Modules 1-2 (20% course progress)
 - Solve **10 LeetCode easy problems** (arrays/strings focus)
 - Build and polish **Tkinter Password Generator** GUI app
-- Create GitHub repo **"cs-japan-roadmap"** with daily commits
+- Create GitHub repo **"Project_Rebuild"** with daily commits
 - Update resume with Week 1 project
 
 ## 📅 Daily Targets (4-6 hours)
@@ -17,13 +17,6 @@
 | **Fri** | Feb 1 | Upgraded password gen + 3 LeetCode (7/10) |
 | **Sat** | Feb 2 | Final polish + resume update + 3 LeetCode (10/10 ✅) |
 | **Sun** | Feb 3 | Week review + portfolio README + LinkedIn share |
-
-## ✅ Success Metrics (End of Week)
-✅ Coursera Module 1 loops complete (5 exercises) 
-   → loops.py with multi-line, nested, break/continue
-
-✅ 2/10 Leetcode problems solved
-
 
 ## 🛠 LeetCode Targets
 <ol>
