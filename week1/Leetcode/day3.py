@@ -11,7 +11,6 @@ def moveZeroes(nums):
 print(moveZeroes([0,1,0,3,12]))
 
 # LeetCode #4: Remove Duplicates
-#test1
 def removeDuplicates(nums):
     if not nums:
         return 0
